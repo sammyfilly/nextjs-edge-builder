@@ -150,7 +150,10 @@ Learn more about:
 - [Using Query Params and Cookies in Next.js Static Pages](https://www.builder.io/blog/using-cookies-and-query-string-in-nextjs-static-pages)
 - [Next.js Middleware](https://nextjs.org/docs/advanced-features/middleware)
 - [Next.js personalization utils](https://github.com/BuilderIO/builder/blob/main/packages/personalization-utils/README.md) used in this example
-
+ compile yarn
+>don't exit with error
+>fix errors : await error resolvers config
+>use Config to continue build
 ### Troubleshooting
 
 Run into any issues? [Chat with us in discord](https://discord.gg/TjSStcmuWN)!
