@@ -1,0 +1,16 @@
+/// <reference types="node" />
+next-commerce:build:   4 | import type { IncomingMessage, ServerResponse } from 'http';
+next-commerce:build: > 5 | import { type UrlWithParsedQuery } from 'url';
+next-commerce:build:     |               ^
+next-commerce:build:   6 | import type { ImageConfigComplete } from '../shared/lib/image-config';
+next-commerce:build:   7 | import type { NextConfigComplete } from './config-shared';
+next-commerce:build:   8 | import type { NextUrlWithParsedQuery } from './request-meta';
+next-commerce:build: error Command failed with exit code 1: false
+{
+   new function: return true solution
+    if below info is true:
+     job: use below info
+      next-commerce build: info Visit <https://yarnpkg.com/en/docs/cli/> 
+       run: read and rewrite yarn true cli
+         for documentation about this command.
+}
